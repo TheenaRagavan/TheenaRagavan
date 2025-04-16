@@ -2,6 +2,7 @@
 My Personal Repository.
 
 👋 About Me
+
 Hi, I’m a results-oriented and analytical professional with a strong foundation in Business Administration and hands-on experience in Data Analytics. With an MBA specializing in HR and Marketing, I bring a unique combination of business understanding and technical expertise that helps drive smart, data-backed decisions.
 
 My skill set includes tools like Excel, Power BI, SQL, and Python, along with a solid grasp of Descriptive and Inferential Statistics, Data Modeling, and Data Visualization. I have successfully executed multiple real-time business projects, delivering actionable insights across areas such as retail operations, e-commerce performance, aviation data, and employee performance tracking.
@@ -13,11 +14,13 @@ I’m eager to contribute to a forward-thinking organization where I can apply m
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Career Objective
+
 To secure a dynamic role as a Business Analyst or HR Analyst where I can leverage my analytical mindset, domain knowledge, and technical skills to contribute to data-driven strategies, optimize performance, and deliver business value. I aim to work in a collaborative environment that promotes innovation and continuous learning.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Skills & Tools
+
 Languages & Tools: Advanced Excel, SQL, Power BI, Python (Pandas, NumPy)
 
 Data Analytics: Data Cleaning, Data Manipulation, Data Visualization, Data Modeling
@@ -29,6 +32,7 @@ Soft Skills: Stakeholder Collaboration, Problem Solving, Critical Thinking, Busi
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔍 What I Bring to the Table
+
 Bridge the gap between business needs and technical solutions, translating complex data into simple, impactful insights.
 
 Design and implement dashboards, reports, and models that support strategic decision-making.
