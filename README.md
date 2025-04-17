@@ -1,5 +1,4 @@
-# Theenadhayalan.V
-My Personal Repository.
+#My Personal Repository.
 
 👋 About Me
 
