@@ -24,9 +24,9 @@ To secure a dynamic role as a Business Analyst or HR Analyst where I can leverag
 
 🛠️ Skills & Tools
 
-Languages & Tools: Advanced Excel, SQL, Power BI, Python (Pandas, NumPy)
+Languages & Tools: Advanced Excel, SQL, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Data Analytics: Data Cleaning, Data Manipulation, Data Visualization, Data Modeling
+Data Analytics: ETL, Data Migration, Data Cleaning & Validation, Data Visualization, Data Modeling, KPI Reporting
 
 Statistics: Descriptive & Inferential Statistics, Hypothesis Testing, Regression Analysis
 
