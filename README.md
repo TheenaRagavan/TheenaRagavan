@@ -1,5 +1,7 @@
 Hi, I'm Theena Vijayaragavan 👋
+
 Data Transformation Analyst | Data Analyst | Reporting Analyst | Business Intelligence Enthusiast
+
 
 I am a Data Transformation Analyst with hands-on experience in ETL processes, data migration, data validation, reporting, and business analytics. My expertise lies in transforming raw data into actionable insights using SQL, Python, Power BI, and Advanced Excel.
 
